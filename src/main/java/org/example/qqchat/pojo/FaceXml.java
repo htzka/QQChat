@@ -7,8 +7,8 @@ import lombok.NoArgsConstructor;
 import java.util.List;
 
 @Data
-@AllArgsConstructor
 @NoArgsConstructor
-public class ReplyMsgFormat {
-    List<String> replies;
+@AllArgsConstructor
+public class FaceXml {
+    List<Face> faces;
 }

@@ -1,6 +1,5 @@
 package org.example.qqchat.service;
 
-import org.example.qqchat.controller.ReceptionMsg;
 import org.example.qqchat.pojo.ReplyMsgFormat;
 
 public interface Reply {
